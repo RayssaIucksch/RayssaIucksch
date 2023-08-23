@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=)
 
-### GitHub Stats
+### GitHub Stats:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RayssaIucksch&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=DA70D6&text_color=c9d1d9&bg_color=0d1117" alt="Rayssa Iucksch github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaIucksch&layout=compact&hide_border=true&title_color=DA70D6&text_color=DA70D6&bg_color=0d1117" />
