@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Rayssa+Iucksch+:%29;HI+THERE,+My+name+is+Rayssa+Iucksch+:%29)](https://git.io/typing-svg)
 
 # Rayssa Iucksch
-### 19 anos, Desenvolvedora Júnior.
+### 19 anos, Futura Desenvolvedora Back-end.
 🟣Curitiba/Paraná;  
 🟣Graduanda de Análise e Desenvolvimento de Sistemas na UNINTER;  
 🟣Estudando também Back-end em Java pelo Bootcamp Santander na DIO;  
