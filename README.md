@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Rayssa+Iucksch+:%29;HI+THERE,+My+name+is+Rayssa+Iucksch+:%29)](https://git.io/typing-svg)
 
 # Rayssa Iucksch
-### 19 anos, Futura Desenvolvedora Back-end.
+### 19 anos, Futura Desenvolvedora Back-end | 19 years old, future Back-end Developer.
 🟣Curitiba - Brasil;  
 🟣Graduanda de Análise e Desenvolvimento de Sistemas na UNINTER | Student of Systems Analysis and Development at UNINTER;  
 🟣Estudando também Back-end em Java pelo Bootcamp Santander na DIO | Also studying Back-end in Java through the Santander Bootcamp at DIO;  
