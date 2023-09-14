@@ -4,25 +4,25 @@
 
 # Rayssa Iucksch
 ### 19 anos, Futura Desenvolvedora Back-end.
-🟣Curitiba/Paraná;  
-🟣Graduanda de Análise e Desenvolvimento de Sistemas na UNINTER;  
-🟣Estudando também Back-end em Java pelo Bootcamp Santander na DIO;  
-🟣Inglês Intermediário - Cursando;  
-🟣A procura de uma primeira oportunidade na área. 
+🟣Curitiba - Brasil;  
+🟣Graduanda de Análise e Desenvolvimento de Sistemas na UNINTER | Student of Systems Analysis and Development at UNINTER;  
+🟣Estudando também Back-end em Java pelo Bootcamp Santander na DIO | Also studying Back-end in Java through the Santander Bootcamp at DIO;  
+🟣Inglês Intermediário - Cursando | Intermediate English - In progress;  
+🟣A procura de uma primeira oportunidade na área | Looking for a first opportunity in the area.. 
 
 ### Conecte-se comigo:
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-DA70D6?style=for-the-badge)](https://www.dio.me/users/cadastrosrayssa)
 [![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=)](mailto:cadastrosrayssa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/rayssa-iucksch-b67612289/)
 
-### Habilidades:
+### Habilidades | Skills:
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=)](https://docs.github.com/)
 
-### Estudando no momento:
+### Estudando no momento | Studying at the moment:
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=)
 
