@@ -11,7 +11,6 @@
 🟣A procura de uma primeira oportunidade na área | Looking for a first opportunity in the area.. 
 
 ### Conecte-se comigo:
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-DA70D6?style=for-the-badge)](https://www.dio.me/users/cadastrosrayssa)
 [![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=)](mailto:cadastrosrayssa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/rayssa-iucksch-b67612289/)
 
