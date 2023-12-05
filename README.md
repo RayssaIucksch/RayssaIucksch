@@ -6,6 +6,7 @@
 ### 20 anos, Futura Desenvolvedora Back-end | 20 years old, future Back-end Developer.
 🟣Curitiba - Brasil;  
 🟣Graduanda de Análise e Desenvolvimento de Sistemas na UNINTER | Student of Systems Analysis and Development at UNINTER;
+
 🟣Inglês Intermediário - Cursando | Intermediate English - In progress;  
 🟣A procura de uma primeira oportunidade na área | Looking for a first opportunity in the area.. 
 
