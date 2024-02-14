@@ -12,7 +12,7 @@
 
 ### Conecte-se comigo:
 [![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=)](mailto:cadastrosrayssa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/rayssa-iucksch-b67612289/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lara-tabsch)
 
 ### Habilidades | Skills:
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=)
