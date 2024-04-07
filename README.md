@@ -4,9 +4,12 @@
 
 # Rayssa Iucksch
 ### 20 anos
-🟣Curitiba - Brasil;  
+🟣Curitiba - Brasil; 
+
 🟣Graduanda de Análise e Desenvolvimento de Sistemas na UNINTER 
+
 🟣Inglês Intermediário - Cursando 
+
 🟣A procura de uma primeira oportunidade na área 
 
 ### Conecte-se comigo:
