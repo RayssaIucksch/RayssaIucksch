@@ -6,11 +6,11 @@
 ### 20 anos
 🟣Curitiba - Brasil; 
 
-🟣Cursando Análise e Desenvolvimento de Sistemas na UNINTER 
+🟣Cursando Análise e Desenvolvimento de Sistemas na UNINTER;
 
-🟣Inglês Intermediário - Cursando 
+🟣Inglês Intermediário - Cursando;
 
-🟣A procura de uma primeira oportunidade na área 
+🟣A procura de uma primeira oportunidade na área.
 
 ### Conecte-se comigo:
 [![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=)](mailto:cadastrosrayssa@gmail.com)
