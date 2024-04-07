@@ -6,7 +6,7 @@
 ### 20 anos
 🟣Curitiba - Brasil; 
 
-🟣Graduanda de Análise e Desenvolvimento de Sistemas na UNINTER 
+🟣Cursando Análise e Desenvolvimento de Sistemas na UNINTER 
 
 🟣Inglês Intermediário - Cursando 
 
