@@ -3,14 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Rayssa+Iucksch+:%29;HI+THERE,+My+name+is+Rayssa+Iucksch+:%29)](https://git.io/typing-svg)
 
 # Rayssa Iucksch
-### 20 anos
+### 22 anos
 🟣Curitiba - Brasil; 
 
-🟣Cursando Análise e Desenvolvimento de Sistemas na UNINTER;
+🟣Graduada em Análise e Desenvolvimento de Sistemas na UNINTER;
 
-🟣Inglês Intermediário - Cursando;
-
-🟣A procura de uma primeira oportunidade na área.
+🟣Inglês Intermediário (B2);
 
 ### Conecte-se comigo:
 [![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=)](mailto:cadastrosrayssa@gmail.com)
